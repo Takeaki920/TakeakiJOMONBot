@@ -1,6 +1,9 @@
 streamlit
 gradio
 langchain
+langchain-community
 openai
-chromadb
+chromadb==0.4.22
 tiktoken
+pydantic
+tenacity

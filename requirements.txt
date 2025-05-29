@@ -7,3 +7,4 @@ chromadb==0.4.22
 tiktoken
 pydantic
 tenacity
+numpy<2.0

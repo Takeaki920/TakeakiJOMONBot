@@ -9,3 +9,4 @@ pydantic
 tenacity
 numpy<2.0
 protobuf<4.0.0
+faiss-cpu

@@ -2,7 +2,7 @@ import gradio as gr
 import os
 from load_and_embed import load_vectorstore
 from langchain.chains import RetrievalQA
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 
 # 初期化（最初の1回のみ）
 vectorstore = load_vectorstore()

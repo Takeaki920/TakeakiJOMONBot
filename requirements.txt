@@ -10,3 +10,4 @@ tenacity
 numpy<2.0
 protobuf<4.0.0
 faiss-cpu
+langchain-community>=0.0.20
